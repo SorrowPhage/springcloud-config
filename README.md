@@ -1,3 +1,3 @@
 # springcloud-config
 
-# 这是springcloud的config配置
+# 这是springcloud测试config配置的repository
